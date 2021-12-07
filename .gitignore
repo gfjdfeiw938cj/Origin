@@ -1,0 +1,6 @@
+
+1.2. Site For Import/tmp
+*.DS_Store
+*Thumbs.db 
+*_old
+*_bacKup
